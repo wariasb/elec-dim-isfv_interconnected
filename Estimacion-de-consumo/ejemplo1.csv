@@ -1,0 +1,8 @@
+Receptor,Numero,PotenciaUnitaria,HorasDeUso
+Tv,1,60,3
+Lamparas Led,5,10,5
+Frigorifico,1,90,12
+Ventiladores,2,40,4
+Laptop,1,30,2
+Microondas,1,1000,0.25
+Otros Consumos,1,50,2

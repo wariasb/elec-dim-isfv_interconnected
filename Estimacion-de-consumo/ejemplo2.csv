@@ -1,0 +1,6 @@
+Receptor,Numero,PotenciaUnitaria,HorasDeUso
+Tv,1,100,2
+Lamparas Led,10,12,2
+Microondas,1,800,0.25
+Frigorifico,1,200,5
+Otros Consumos,1,100,1

@@ -1,0 +1,14 @@
+Receptor,Numero,PotenciaUnitaria,HorasDeUso
+Fridge_Combi,1,150,24
+Washing_Machine,1,2200,1.5
+Dishwasher,1,1800,1.2
+Electric_Oven,1,2500,0.5
+Induction_Hob,1,2000,1
+Microwave,1,800,0.6
+Water_Heater_Termo,1,2000,4.5
+LED_Lighting_Total,1,120,6
+Smart_TV,1,120,5
+Laptops,3,65,8
+Hairdryer,1,1600,0.6
+Air_Conditioning,1,2000,4
+Smartphone_Chargers,6,15,4
